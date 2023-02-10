@@ -1,69 +1,84 @@
-## Your Name
+## Sonjay Kumar
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a computer student enthusiast who is interested in software engineering specifically In web development. I have a deep interest in the field of software engineering and enjoy creatively finding solutions to problems using programming. This interest grew throughout my  Level three foundation / extended diploma in computing and continues to develop the more I explore the subject and convert ideas into functioning programming.
+
+While doing my diploma I learnt python and C # where I did assignments on them, and I had to a coding exam in C # sharp where I received a merit for the exam. Additionally, I had to do a assignment using C sharp where I had created a BMR calculator with a GUI using wpf. In my own spare time, I learnt html and some CSS through a html code camp YouTube video then I proceeded to create my own taco shop page using html. The last language I am familiar with is Ruby where I completed a 10-to-15-hour free code camp course.
+
+Looking at the principles I am familiar with I have learnt object-oriented programming during my diploma where I had to code and do an assignment on OOP implementing one of the principles.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description           | Tech/tools        |
+| ---------------------------- | --------------------- | ----------------- |
+| **BMR Calculator**           | Finds BMR with GUI    | Wpf and C sharp   |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sales Force** Catch 22 ** (1/11/22 to 24/11/22)  
+Work Experience
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Completed a 4 week intensive, interactive professional development programme comprised of a series of interactive workshops, activities and projects in conjuction with a wide variety Salesforce employees and partners from the Salesforce Ecosystem.
+Achievement included: 
+-	Grew my professional network. 
+-	Developed my personal, professional and employability skills. 
+-	Gained an insight into the range of roles and careers in the tech sector and clarity on my chosen career path as a software developer and mapped out my tech career journey. 
+-	Working and communicating effectively within a team on a grou.p project which involved mapping out solutions to problems and presented this back to a range of Salesforce employees
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Askaris** (12/08/22 to 22/09/22)  
+IT Technical Sales Apprentice
 
-- Any experience relevent to software development
+I was taught about how the sales world functions where I learnt about a numerous amount of vendors for which I had to complete certifications on them however they had to let me go after one month as they had to cut cost so they let go of some of there employees
 
-## Skills
+**British Heart Foundation** (20/08/21 to 27/08/21)  
+Volunteer Electrical Item Tester
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+I volunteered for the British Heart Foundation every Saturday and Sunday where I was a electrical item tester testing to see if the items worked and I also lifted heavy furniture.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+**Uxbridge College** (06/04/21 to 15/04/21)  
+Work Experience - Asset Management
 
-
-Here's an example
+For my work experience, I volunteered for Uxbridge college to help with their computer systems in preparation for the next year. During this work experience I learned how to do: 
+- Asset management 
+- Removed old hardware and replaced it with new ones 
+- Organized assets 
+- Checked the suitability of assets 
+- Participated with the college in group projects
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+In my work experience I had to work with two people I never worked with before we were originally very shy and we were working independently but I took the initiative to introduce myself and communicate with them which resulted in us working together which made doing the tasks alot easier.
 
-#### Another skill
+#### Resilience
+during my work experience as a asset manager I was given tasks to do independently while being on a deadline . While doing the tasks independently I gained a tremendous amount of confidence as originally I had self doubts on what my capabilities were but now I know I can do anything .
+ 
+#### Teamwork
+While doing my work experience as a asset manager I had to work in a team of three where we had to image twenty pcs. At the start we were doing it independently but once we got to knew each other we worked together and by working together we made it alot easier to do and it was quicker to do as well
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+#### Learning
+Doing a software development course at college I got to learn how to program in python and c-sharp and while I was struggling to learn those languages as I did not know how to program before by taking my own initiative I decided to revise it on my own and now im very proficient in programming.
+ 
+#### Problem Solving
+Often during work experience I had my managers be busy so when I was testing items I would have problems but rather then wasting time I took my own initiative looked up on google how to fix a electrical item and then I fixed it myself alot of times.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Uxbridge College (2021 to 2022)
+B3ECSF Lv3 Extended Diploma In Computing
 
-#### Your University / College (start_date to end_date)
+Overall Grade: (D, D , D)  : Distinction , Distinction , Distinction
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+####  B3FCSF Uxbridge College (2020 to 2021)
+Lv3 Foundation Diploma In Computing
 
-#### Any other qualifications
+Overall Grade: (D) Distinction
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Barnhill Community High School (2014 to 2019)
+- Maths: 4 
+- English Language: 6 
+- English Literature: 7
+- Combined Science Trilogy Tier H: 4/4 
+- History Option FK: 6 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+The hobbies I have are computing, history, chess, religion, and meeting new people.
