@@ -11,7 +11,10 @@ Looking at the principles I am familiar with I have learnt object-oriented progr
 | Name                         | Description           | Tech/tools        |
 | ---------------------------- | --------------------- | ----------------- |
 | **BMR Calculator**           | Finds BMR with GUI    | Wpf and C sharp   |
-
+| **Borrow My Garden**         |  This was a group project where we made a MERN app that allows a user to signup login create a garden post and view  other users gradens [repo here](https://github.com/KumarS14/borrow-my-garden) | MERN stack : MongoDB Atlas  Express  React  Node , Javascript , Axios , HTML
+| Acebook | This was a group project to make our own version of facebook that lets you signup login create a post and view it along side likes and other features [repo here](https://github.com/KumarS14/acebook-water) | React, Node.Js, MongoDB, Express, CSS |
+| Makers BNB | This was a group project where we had to create a BNB styled app [repo here](https://github.com/Fiona-1981/makersbnb-ruby-seed) | our app language is Ruby, with HTML for the browser and postgres sql for the databaseWe work on the TDD principle and use RSpec for testing
+| Bank tech test | Command line banking application which lets users to make deposits, withdrawals and show bank statements [repo here](https://github.com/KumarS14/bank.js)| Ruby, Jest |
 
 ## Work Experience
 
@@ -44,7 +47,7 @@ For my work experience, I volunteered for Uxbridge college to help with their co
 - Organized assets 
 - Checked the suitability of assets 
 - Participated with the college in group projects
-
+## Skils
 #### Communication
 In my work experience I had to work with two people I never worked with before we were originally very shy and we were working independently but I took the initiative to introduce myself and communicate with them which resulted in us working together which made doing the tasks alot easier.
 
@@ -61,6 +64,21 @@ Doing a software development course at college I got to learn how to program in 
 Often during work experience I had my managers be busy so when I was testing items I would have problems but rather then wasting time I took my own initiative looked up on google how to fix a electrical item and then I fixed it myself alot of times.
 
 ## Education
+
+### Makers Bootcamp (January 2023 to May 2023)
+I joined Makers in 2023 to do there boorcamp that offers intensive 16 week coding course, where I was able learn a variety of differnet things which inlude :  <br/> 
+- OOP
+- TDD
+- Javascipt
+- Ruby
+- HTML
+- CSS
+- MERN STACK
+- The Command-line and how to use it to manage files and directories, automating tasks, and interacting with Git
+- How to use GITHUb create a repo push to it clone it and how to handle braches and prevent collisions
+- How HTTP request works and what they are used for as well as how to use it
+- How to handle databases such as MongoDB Atlas and SQL
+- Web development
 
 #### Uxbridge College (2021 to 2022)
 B3ECSF Lv3 Extended Diploma In Computing
