@@ -1,10 +1,9 @@
 ## Sonjay Kumar
 
-I am a computer student enthusiast who is interested in software engineering specifically In web development. I have a deep interest in the field of software engineering and enjoy creatively finding solutions to problems using programming. This interest grew throughout my  Level three foundation / extended diploma in computing and continues to develop the more I explore the subject and convert ideas into functioning programming.
+I am a software devlopment enthusiast who is interested in software engineering specifically In web development. I have a deep interest in the field of software engineering and enjoy creatively finding solutions to problems using programming. This interest grew throughout my  Level three foundation / extended diploma in computing and continues to develop the more I explore the subject and convert ideas into functioning programming.
 
-While doing my diploma I learnt python and C # where I did assignments on them, and I had to a coding exam in C # sharp where I received a merit for the exam. Additionally, I had to do a assignment using C sharp where I had created a BMR calculator with a GUI using wpf. In my own spare time, I learnt html and some CSS through a html code camp YouTube video then I proceeded to create my own taco shop page using html. The last language I am familiar with is Ruby where I completed a 10-to-15-hour free code camp course.
+Upon doing my diploma I then did a 16 week intensive software develpoment bootcamp with Makers that went over a wide array of subjects such as testing , databases , MERN and more while having to do projects for each topic that are present on my github alongisde and nice amount of group projects such as a mern app.
 
-Looking at the principles I am familiar with I have learnt object-oriented programming during my diploma where I had to code and do an assignment on OOP implementing one of the principles.
 
 ## Projects
 
@@ -67,10 +66,10 @@ Often during work experience I had my managers be busy so when I was testing ite
 
 ### Makers Bootcamp (January 2023 to May 2023)
 I joined Makers in 2023 to do there boorcamp that offers intensive 16 week coding course, where I was able learn a variety of differnet things which inlude :  <br/> 
-- OOP
-- TDD
-- Javascipt
-- Ruby
+- OOP : With learning and implementation on how inheritance and polymorphism works
+- TDD : Done in the form of RSpec and Jest
+- Javascipt : For web development
+- Ruby : As a starting language to learn coding and testing
 - HTML
 - CSS
 - MERN STACK
